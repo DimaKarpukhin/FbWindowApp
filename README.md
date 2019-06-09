@@ -1,4 +1,4 @@
-# "FbWindowApp" is the C# 1indow application, that uses Window Forms and Facebook API and implements the following Design Patterns:
+# "FbWindowApp" is the C# window application, that uses Window Forms and Facebook API and implements the following Design Patterns:
 
 --------------
 
